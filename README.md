@@ -1,4 +1,4 @@
 mongoid_slurm
 =============
 
-The original party slug comes to Mongoid
+The original party slug now for Mongoid
